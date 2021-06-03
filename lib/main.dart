@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Log In',
       debugShowCheckedModeBanner: false,
       initialRoute: 'login_design',
-      theme: ThemeData.dark(),
+      // theme: ThemeData.dark(),
       routes: {
         'login_design': (_) => LogInDesign(),
       },
