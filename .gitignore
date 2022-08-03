@@ -27,9 +27,11 @@
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
+.packages 2
 .pub-cache/
 .pub/
 /build/
+/build 2/
 .vscode/
 
 # Web related
